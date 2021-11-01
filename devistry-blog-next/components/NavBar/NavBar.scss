@@ -1,0 +1,28 @@
+.navBar {
+    padding: 1em;
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    a {
+        font-weight: 300;
+        &:hover {
+            color: red;
+            font-weight: 400;
+        }
+    }
+
+    
+
+    ul {
+        padding: unset;
+        margin: unset;
+        list-style: none;
+    }
+
+    .title {
+        font-size: 1.5em;
+    }
+}
