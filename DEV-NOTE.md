@@ -12,7 +12,7 @@ Create a blog using the Next.js React framework, and Strapi CMS.
 [Discord](https://discord.gg/vNrm6g9r)
 
 Sections:   
-00:00 - Intro 
+00:00 - Intro  
 06:43 - Installing Next and Strapi  
 10:00 - Writing blog posts in Strapi  
 18:26 - Next overview 
