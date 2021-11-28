@@ -18,12 +18,12 @@ Sections:
 18:26 - Next overview 
 28:20 - Getting blog post data with next  
 44:14 - Navbar and routing  
-48:32 - Styling with Sass 
-01:01:05 - Building the homepage  
-01:10:18 - Building the posts overview  
-01:14:12 - Building the post preview links  
-01:20:05 - Building post pages  
-01:32:26 - Rendering markdown content 
+48:32 - Styling with Sass  
+01:01:05 - Building the homepage     
+01:10:18 - Building the posts overview    
+01:14:12 - Building the post preview links    
+01:20:05 - Building post pages    
+01:32:26 - Rendering markdown content  
 
 #### Resume
 16.10.2021 @ **21:30min.**  
