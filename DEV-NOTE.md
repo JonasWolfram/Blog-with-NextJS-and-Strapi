@@ -15,7 +15,7 @@ Sections:
 00:00 - Intro  
 06:43 - Installing Next and Strapi  
 10:00 - Writing blog posts in Strapi  
-18:26 - Next overview 
+18:26 - Next overview    
 28:20 - Getting blog post data with next  
 44:14 - Navbar and routing  
 48:32 - Styling with Sass  
